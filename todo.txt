@@ -1,0 +1,5 @@
+why didn't POST work? Does it matter if the email is going to use GET anyway?
+Cannot modify a day if your schedule changes. You'd have to find the email, hit delete, and recreate
+Is it pretty enough?
+Should there be a pull-out drawer for the meeting details in the 'upcoming' list?
+Can the system email a reminder to send status updates on a schedule?

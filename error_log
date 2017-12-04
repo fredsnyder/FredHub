@@ -1,0 +1,4 @@
+[29-Nov-2017 13:23:42 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home4/fredsnyd/public_html/fredhub/post.php on line 70
+[29-Nov-2017 13:29:19 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home4/fredsnyd/public_html/fredhub/post.php on line 70
+[30-Nov-2017 07:39:42 America/Denver] PHP Notice:  Undefined variable: notes in /home4/fredsnyd/public_html/fredhub/post.php on line 124
+[30-Nov-2017 07:39:42 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home4/fredsnyd/public_html/fredhub/post.php on line 70
